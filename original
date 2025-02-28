@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>HTML Images</title>
+  </head>
+  <body>
+     <img 
+      src="images/Beemer M2 competition.jpeg"
+     >
+     <img 
+      src="images/R34 GTR.jpeg" alt="Your missing something sweet behind here, WOOOWIII!"
+     >
+     <img 
+      src="images/Porshe 918.jeg" alt="Not going to lie, there sweet things here. Aooooooowiii!" title="Best Look car of 2013"
+     >
+     <nav>
+      <ul>
+        <li><a href="/home/onegai2030/Desktop/Labs/Lab-works/Lab-mix/Website-Mk1/original">home</a></li>
+        <li><a href="No.2.html"> Want_More!</a></li>
+      </ul>
+      </nav>
+  </body>
+</html>
