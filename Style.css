@@ -2,11 +2,95 @@
     color: rgb(19, 65, 150);
 }
 
-#car-lot img {
+  #Toyota img{
     border-radius: 50px;
     max-width: 15%;
   height: auto;
+    }
+
+  #Subaru img{
+    border-radius: 50px;
+    min-width: 16%;
+
+  }
+  #Porshe img{
+    border-radius: 50px;
+    min-width: 16%;
+    
+  }
+  #Nissan img{
+    border-radius:50px;
+    max-width: 19%;
+  }
+  #Mistubishi img {
+    height: 295px;
+    width: 310px;
+    border-radius: 50px;
+  object-fit:cover;
+    object-position: 50% 50%;
+  }
+  #Mazda img{
+
+object-fit:cover;
+object-position: 50% 50%;
+height: 300px;
+width:315px;
+border-radius: 50px;
+  }
+  #Lamborghini img {
+    object-fit: cover;
+    object-position: 50% 50%;
+    height: 300px;
+    width: 315px;
+    border-radius: 50px
+  }
+  #Honda img{
+    object-fit:cover;
+    object-position: 50% 50%;
+    height: 300px;
+    width: 325px;
+    border-radius: 50px;
+    
+  }
+  #Ford img{
+    object-fit:cover;
+    object-position: 50% 50%;
+    height: 300px;
+    width: 300px;
+    border-radius: 50px;
+  }
+  #Chevrolet img{
+    object-fit:cover;
+    object-position: 50% 50%;
+    height: 300px;
+    width: 300px;
+    border-radius: 50px;
+  }
+#Ferrari img{
+  object-fit:cover;
+    object-position: 50% 50%;
+    height: 300px;
+    width: 300px;
+    border-radius: 50px;
+}
+#BMW img{
+  object-fit:cover;
+    object-position: 50% 50%;
+    height: 300px;
+    width: 300px;
+    border-radius: 50px;
+}
+#Acura img {
+  object-fit:cover;
+    object-position: 50% 50%;
+    height: 300px;
+    width: 300px;
+    border-radius: 50px;
     
 }
-    
-    
+h1{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-style: oblique;
+  font-size: 40px;
+color: rgb(71, 42, 42);
+}
