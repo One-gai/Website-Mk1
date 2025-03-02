@@ -1,0 +1,86 @@
+html 
+
+
+.Acura h1{ font-family: Arial, Helvetica, sans-serif;
+  color:rgb(179, 14, 14);
+}
+.Acura h2{
+  color: rgb(105, 12, 12);
+}
+.Acura p {font-size:  20px;
+color: rgb(95, 2, 2);}
+
+.BMW p{
+  font-size: 20px;
+  color: rgb(11, 24, 80);
+ }
+ .BMW h1{font-family: Arial, Helvetica, sans-serif;}
+
+ .chevrolet h1{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.chevrolet p {
+    font-size: 20px; color:rgb(28, 28, 119);
+}
+.chevrolet h2{
+  color:rgb(51, 51, 104) ;
+  
+ }
+ .Ferrari h1{font-family:Arial, Helvetica, sans-serif;} .Ferrari p {font-size:  20px; color: rgba(88, 1, 1, 0.76);}
+ .Ferrari h2{
+  color: ;
+}
+
+.Lamborghini h1{font-family: Arial, Helvetica, sans-serif;}.Lamborghini p {font-size:  20px; color: rgb(122, 150, 0);} .Lamborghini
+h2{
+  color: ;
+}
+
+.Toyota h1{font-family: Arial, Helvetica, sans-serif;}.Toyota p {font-size:  20px; color: rgb(90, 90, 90);}.Toyota h2{
+  color: ;
+}
+
+.Honda h1{font-family: Arial, Helvetica, sans-serif;}
+.Honda p {font-size:  20px;color: rgb(110, 0, 0);}
+.Honda h2{
+  color: ;
+}
+
+.Mazda h1{font-family: Arial, Helvetica, sans-serif;}
+.Mazda p {font-size:  20px; color: rgb(124, 124, 124);}
+.Mazda h2{
+  color: ;
+}
+
+.Ford h1{font-family: Arial, Helvetica, sans-serif;}
+.Ford p {font-size:  20px; color: rgb(25, 84, 122);}
+.Ford  h2{
+  color: ;
+
+}
+
+.Nissan h1{font-family: Arial, Helvetica, sans-serif;}
+.Nissan  p {font-size:  20px;color: gray;}
+.Nissan h2{
+    color: ;
+  }
+
+ 
+
+.Porshe p {font-size:  20px;color: rgb(63, 61, 61);}
+ .Porshe h1{font-family: Arial, Helvetica, sans-serif;}
+ .Porshe h2{
+    color: ;
+  }
+
+.Subaru p {font-size:  20px;color: rgb(25, 25, 92);}
+ .Subaru h1{font-family: Arial, Helvetica, sans-serif;}h2{
+  color: ;
+}
+.Mistubishi h1{font-family: Arial, Helvetica, sans-serif;}
+ .Mistubishi {font-size:  20px; color:rgb(85, 110, 255);}
+ .Mistubishi h2{
+  color: ;
+}
+
+ 

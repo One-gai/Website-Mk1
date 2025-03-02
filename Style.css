@@ -1,3 +1,5 @@
+body{
+    background-image:url(/images./background 1.jpg)}
  #home-link a {
     color: rgb(19, 65, 150);
 }
@@ -88,9 +90,17 @@ border-radius: 50px;
     border-radius: 50px;
     
 }
+
 h1{
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   font-style: oblique;
   font-size: 40px;
 color: rgb(71, 42, 42);
+
 }
+#intro {
+  background-color: red;
+}
+p {font-size:  20px;
+  color: rgb(0, 0, 0);}
+
