@@ -31,9 +31,13 @@ color: rgb(95, 2, 2);}
   color: ;
 }
 
-.Lamborghini h1{font-family: Arial, Helvetica, sans-serif;}.Lamborghini p {font-size:  20px; color: rgb(122, 150, 0);} .Lamborghini
+.Lamborghini h1{font-family: Arial, Helvetica, sans-serif;}.Lamborghini p {font-size:  20px; color: rgb(171, 173, 42);} .Lamborghini
 h2{
   color: ;
+}
+#Limg{
+  display: inline;
+  gap: 20px;
 }
 
 .Toyota h1{font-family: Arial, Helvetica, sans-serif;color: darkgrey;}
